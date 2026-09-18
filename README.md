@@ -1,16 +1,23 @@
-## Hi there 👋
+# Errin D. Clark
 
-<!--
-**errinclark/errinclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Strategy & Implementation | Human-Centered AI | Education | Governance**
 
-Here are some ideas to get you started:
+I work at the intersection of AI implementation, data, and human-centered technology adoption. My background spans data analysis, education, philosophy, and organizational technology, with a particular interest in helping people incorporate new tools into the way they actually work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile documents my developing work in applied AI and machine learning, including projects in data analysis, predictive modeling, and deep learning.
+
+## Featured Projects
+
+Three applied AI/ML projects are currently being prepared for publication:
+
+* **Applied Data Science with Python** — *Coming soon*
+* **Machine Learning** — *Coming soon*
+* **Deep Learning** — *Coming soon*
+
+## Current Focus
+
+I am currently developing my practice in AI project management and implementation, with particular interests in responsible AI adoption, workflow integration, AI governance, and the human factors that determine whether technical systems succeed in practice.
+
+## Connect
+
+**LinkedIn:** [Errin D. Clark](YOUR-LINKEDIN-URL)
