@@ -20,4 +20,4 @@ I am currently developing my practice in AI project management and implementatio
 
 ## Connect
 
-**LinkedIn:** [Errin D. Clark](YOUR-LINKEDIN-URL)
+**LinkedIn:** [Errin D. Clark](https://www.linkedin.com/in/errindeeclark/)
