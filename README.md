@@ -10,7 +10,7 @@ This GitHub profile documents my developing work in applied AI and machine learn
 
 Three applied AI/ML projects are currently being prepared for publication:
 
-* **Applied Data Science with Python** — *see below*
+* [Applied Data Science with Python](https://github.com/errinclark/australian-apparel-sales-analysis)
 * **Machine Learning** — *Coming soon*
 * **Deep Learning** — *Coming soon*
 
